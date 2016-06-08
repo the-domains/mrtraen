@@ -1,7 +1,7 @@
 name: Mr.Traen
 favicon: null
-layout_spectrum: 0.4805036741308868
-typography_spectrum: 0.5854074775706977
+layout_spectrum: 0
+typography_spectrum: 0.21967
 title: Reel Mr.Traen
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.956262476509437
-  lightness: 0.40357118262909353
-  saturation: 0.5301756823901087
-  rhythmicContrast: 0.015291305491700768
+    - '#ffffff'
+    - '#1b1819'
+    - '#a21c28'
+    - '#c8858b'
+    - '#a1597c'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
